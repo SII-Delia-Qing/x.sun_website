@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --font-afacad: var(--font-afacad);
+}
+
+:root {
+  --font-afacad: "Afacad Flux", sans-serif;
+}
+
+body {
+  font-family: var(--font-afacad);
+}
