@@ -15,7 +15,7 @@ const publications = [
   {
     title: "Tuning into urban birdsong: enhancing nature connectedness with an AI-powered wearable",
     authors: "z.li et al.",
-    venue: "Scientific Report",
+    venue: "Scientific Reports",
     tags: ["Nature connection","wearable"],
     img: "/research_2.jpg"
   },
